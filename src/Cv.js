@@ -88,7 +88,7 @@ function Cv() {
           <div className={classes.top}>
             <Avatar alt="bisry" src={Bisry} className={classes.large} />
             <Typography variant="h4" component="h2" className={classes.name}>
-              Uzumaki bisri tanPa basa-basi
+              Uzumaki bisrY tanPa basa-basi
             </Typography>
           </div>
           <Container style={{ marginTop: 30 }}>
